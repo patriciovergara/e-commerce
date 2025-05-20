@@ -50,4 +50,4 @@ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
 ## 📄 Licencia
 
-Este proyecto se proporciona con fines educativos. Puedes usarlo, modificarlo o adaptarlo libremente.
+Este proyecto tiene fines educativos. Puedes usarlo, modificarlo o adaptarlo libremente.
